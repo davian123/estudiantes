@@ -1,0 +1,25 @@
+{"materias": [
+
+	{
+		"id": "1",
+		"nombre": "matematicas"
+
+	},
+	{
+		"id": "2",
+		"nombre": "biologia"
+
+	},
+	{
+		"id": "3",
+		"nombre": "ciencias"
+
+	},
+	{
+		"id": "4",
+		"nombre": "informatica"
+
+	}
+
+
+]}
